@@ -1,0 +1,925 @@
+{
+  "generated": "2026-04-18T21:39:30Z",
+  "source": "https://ai-experts.network/de/",
+  "crawled_pages": [
+    {
+      "url": "https://ai-experts.network/de/",
+      "local": "de/index.html"
+    },
+    {
+      "url": "https://ai-experts.network/en/",
+      "local": "en/index.html"
+    },
+    {
+      "url": "https://ai-experts.network/de/cookies/",
+      "local": "de/cookies/index.html"
+    },
+    {
+      "url": "https://ai-experts.network/de/unser-ansatz/",
+      "local": "de/unser-ansatz/index.html"
+    },
+    {
+      "url": "https://ai-experts.network/de/leistungen/",
+      "local": "de/leistungen/index.html"
+    },
+    {
+      "url": "https://ai-experts.network/de/ki-workshops-kompetenzaufbau/",
+      "local": "de/ki-workshops-kompetenzaufbau/index.html"
+    },
+    {
+      "url": "https://ai-experts.network/de/ki-strategieberatung-bedarfsanalyse/",
+      "local": "de/ki-strategieberatung-bedarfsanalyse/index.html"
+    },
+    {
+      "url": "https://ai-experts.network/de/ki-executive-coaching-change/",
+      "local": "de/ki-executive-coaching-change/index.html"
+    },
+    {
+      "url": "https://ai-experts.network/de/ki-umsetzung-automatisierung/",
+      "local": "de/ki-umsetzung-automatisierung/index.html"
+    },
+    {
+      "url": "https://ai-experts.network/de/ki-keynotes/",
+      "local": "de/ki-keynotes/index.html"
+    },
+    {
+      "url": "https://ai-experts.network/de/ki-expertinnen/",
+      "local": "de/ki-expertinnen/index.html"
+    },
+    {
+      "url": "https://ai-experts.network/de/faq/",
+      "local": "de/faq/index.html"
+    },
+    {
+      "url": "https://ai-experts.network/de/kontakt/",
+      "local": "de/kontakt/index.html"
+    },
+    {
+      "url": "https://ai-experts.network/de/team/mario-levenhagen/",
+      "local": "de/team/mario-levenhagen/index.html"
+    },
+    {
+      "url": "https://ai-experts.network/de/team_membber_city/frankfurt/",
+      "local": "de/team_membber_city/frankfurt/index.html"
+    },
+    {
+      "url": "https://ai-experts.network/de/team/andreas-rodenbeck/",
+      "local": "de/team/andreas-rodenbeck/index.html"
+    },
+    {
+      "url": "https://ai-experts.network/de/team_membber_city/munchen/",
+      "local": "de/team_membber_city/munchen/index.html"
+    },
+    {
+      "url": "https://ai-experts.network/de/team/kai-oestreicher/",
+      "local": "de/team/kai-oestreicher/index.html"
+    },
+    {
+      "url": "https://ai-experts.network/de/team_membber_city/dortmund/",
+      "local": "de/team_membber_city/dortmund/index.html"
+    },
+    {
+      "url": "https://ai-experts.network/de/team/kristin-goas-oses/",
+      "local": "de/team/kristin-goas-oses/index.html"
+    },
+    {
+      "url": "https://ai-experts.network/de/team_membber_city/mallorca/",
+      "local": "de/team_membber_city/mallorca/index.html"
+    },
+    {
+      "url": "https://ai-experts.network/de/team/meike-quentin/",
+      "local": "de/team/meike-quentin/index.html"
+    },
+    {
+      "url": "https://ai-experts.network/de/team_membber_city/hamburg/",
+      "local": "de/team_membber_city/hamburg/index.html"
+    },
+    {
+      "url": "https://ai-experts.network/de/team/rene-goebels/",
+      "local": "de/team/rene-goebels/index.html"
+    },
+    {
+      "url": "https://ai-experts.network/de/team_membber_city/freigericht/",
+      "local": "de/team_membber_city/freigericht/index.html"
+    },
+    {
+      "url": "https://ai-experts.network/de/team/stephan-grandy/",
+      "local": "de/team/stephan-grandy/index.html"
+    },
+    {
+      "url": "https://ai-experts.network/de/team_membber_city/bensheim/",
+      "local": "de/team_membber_city/bensheim/index.html"
+    },
+    {
+      "url": "https://ai-experts.network/de/impressum/",
+      "local": "de/impressum/index.html"
+    },
+    {
+      "url": "https://ai-experts.network/de/datenschutz/",
+      "local": "de/datenschutz/index.html"
+    },
+    {
+      "url": "https://ai-experts.network/en/cookies/",
+      "local": "en/cookies/index.html"
+    },
+    {
+      "url": "https://ai-experts.network/en/kontakt/",
+      "local": "en/kontakt/index.html"
+    },
+    {
+      "url": "https://ai-experts.network/en/unser-ansatz/",
+      "local": "en/unser-ansatz/index.html"
+    },
+    {
+      "url": "https://ai-experts.network/en/leistungen/",
+      "local": "en/leistungen/index.html"
+    },
+    {
+      "url": "https://ai-experts.network/en/ki-workshops-kompetenzaufbau/",
+      "local": "en/ki-workshops-kompetenzaufbau/index.html"
+    },
+    {
+      "url": "https://ai-experts.network/en/ki-strategieberatung-bedarfsanalyse/",
+      "local": "en/ki-strategieberatung-bedarfsanalyse/index.html"
+    },
+    {
+      "url": "https://ai-experts.network/en/ki-executive-coaching-change/",
+      "local": "en/ki-executive-coaching-change/index.html"
+    },
+    {
+      "url": "https://ai-experts.network/en/ki-umsetzung-automatisierung/",
+      "local": "en/ki-umsetzung-automatisierung/index.html"
+    },
+    {
+      "url": "https://ai-experts.network/en/ki-keynotes/",
+      "local": "en/ki-keynotes/index.html"
+    },
+    {
+      "url": "https://ai-experts.network/en/ki-expertinnen/",
+      "local": "en/ki-expertinnen/index.html"
+    },
+    {
+      "url": "https://ai-experts.network/en/faq/",
+      "local": "en/faq/index.html"
+    },
+    {
+      "url": "https://ai-experts.network/en/team/kai-oestreicher/",
+      "local": "en/team/kai-oestreicher/index.html"
+    },
+    {
+      "url": "https://ai-experts.network/en/team_membber_city/dortmund/",
+      "local": "en/team_membber_city/dortmund/index.html"
+    },
+    {
+      "url": "https://ai-experts.network/en/team/kristin-goas-oses/",
+      "local": "en/team/kristin-goas-oses/index.html"
+    },
+    {
+      "url": "https://ai-experts.network/en/team_membber_city/mallorca/",
+      "local": "en/team_membber_city/mallorca/index.html"
+    },
+    {
+      "url": "https://ai-experts.network/en/team/stephan-grandy/",
+      "local": "en/team/stephan-grandy/index.html"
+    },
+    {
+      "url": "https://ai-experts.network/en/team_membber_city/bensheim/",
+      "local": "en/team_membber_city/bensheim/index.html"
+    },
+    {
+      "url": "https://ai-experts.network/en/team/rene-goebels/",
+      "local": "en/team/rene-goebels/index.html"
+    },
+    {
+      "url": "https://ai-experts.network/en/team_membber_city/freigericht/",
+      "local": "en/team_membber_city/freigericht/index.html"
+    },
+    {
+      "url": "https://ai-experts.network/en/team/mario-levenhagen/",
+      "local": "en/team/mario-levenhagen/index.html"
+    },
+    {
+      "url": "https://ai-experts.network/en/team_membber_city/frankfurt/",
+      "local": "en/team_membber_city/frankfurt/index.html"
+    },
+    {
+      "url": "https://ai-experts.network/en/team/andreas-rodenbeck/",
+      "local": "en/team/andreas-rodenbeck/index.html"
+    },
+    {
+      "url": "https://ai-experts.network/en/team_membber_city/munchen/",
+      "local": "en/team_membber_city/munchen/index.html"
+    },
+    {
+      "url": "https://ai-experts.network/en/team/meike-quentin/",
+      "local": "en/team/meike-quentin/index.html"
+    },
+    {
+      "url": "https://ai-experts.network/en/team_membber_city/hamburg/",
+      "local": "en/team_membber_city/hamburg/index.html"
+    },
+    {
+      "url": "https://ai-experts.network/en/impressum/",
+      "local": "en/impressum/index.html"
+    },
+    {
+      "url": "https://ai-experts.network/en/datenschutz/",
+      "local": "en/datenschutz/index.html"
+    }
+  ],
+  "downloaded_assets": [
+    {
+      "remote": "https://ai-experts.network/wp-content/plugins/cf7-multi-step/assets/frontend/css/cf7mls.css?ver=2.7.9",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/css/wp-content_plugins_cf7-multi-step_assets_frontend_css_cf7mls.css"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/plugins/cf7-multi-step/assets/frontend/animate/animate.min.css?ver=2.7.9",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/css/wp-content_plugins_cf7-multi-step_assets_frontend_animate_animate.min.css"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.1",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/css/wp-content_plugins_contact-form-7_includes_css_styles.css"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/plugins/translatepress-multilingual/assets/css/trp-language-switcher.css?ver=2.10.5",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/css/wp-content_plugins_translatepress-multilingual_assets_css_trp-language-switcher.css"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/plugins/complianz-gdpr/assets/css/cookieblocker.min.css?ver=1754743891",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/css/wp-content_plugins_complianz-gdpr_assets_css_cookieblocker.min.css"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/pum/pum-site-styles.css?generated=1749134019&ver=1.21.4",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/css/wp-content_uploads_pum_pum-site-styles.css"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/themes/Impreza/css/style.min.css?ver=8.34",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/css/wp-content_themes_Impreza_css_style.min.css"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/themes/Impreza-child/style.css?ver=8.34",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/css/wp-content_themes_Impreza-child_style.css"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/complianz/css/banner-1-optin.css?v=30",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/css/wp-content_uploads_complianz_css_banner-1-optin.css"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/js/wp-includes_js_dist_hooks.min.js"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/js/wp-includes_js_dist_i18n.min.js"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.1.1",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/js/wp-content_plugins_contact-form-7_includes_swv_js_index.js"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.1",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/js/wp-content_plugins_contact-form-7_includes_js_index.js"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/js/wp-includes_js_jquery_jquery.min.js"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/plugins/cf7-multi-step/assets/frontend/js/cf7mls.js?ver=2.7.9",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/js/wp-content_plugins_cf7-multi-step_assets_frontend_js_cf7mls.js"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/themes/Impreza/common/js/vendor/magnific-popup.js?ver=8.34",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/js/wp-content_themes_Impreza_common_js_vendor_magnific-popup.js"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/themes/Impreza/js/us.core.min.js?ver=8.34",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/js/wp-content_themes_Impreza_js_us.core.min.js"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/js/wp-includes_js_jquery_ui_core.min.js"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/pum/pum-site-scripts.js?defer&generated=1749134019&ver=1.21.4",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/js/wp-content_uploads_pum_pum-site-scripts.js"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/plugins/complianz-gdpr/cookiebanner/js/complianz.min.js?ver=1754743892",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/js/wp-content_plugins_complianz-gdpr_cookiebanner_js_complianz.min.js"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/themes/Impreza/common/js/vendor/owl.carousel.js?ver=8.34",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/js/wp-content_themes_Impreza_common_js_vendor_owl.carousel.js"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/themes/Impreza/common/js/vendor/isotope.js?ver=8.34",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/js/wp-content_themes_Impreza_common_js_vendor_isotope.js"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/04/1a_ai-experts_RGB_pos.svg",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_04_1a_ai-experts_RGB_pos.svg"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/plugins/translatepress-multilingual/assets/images/flags/de_DE.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_plugins_translatepress-multilingual_assets_images_flags_de_DE.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/plugins/translatepress-multilingual/assets/images/flags/en_US.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_plugins_translatepress-multilingual_assets_images_flags_en_US.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/06/audience-applaud-clapping-happines-appreciation-tr-2025-02-10-13-46-52-utc-scaled.jpg",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_06_audience-applaud-clapping-happines-appreciation-tr-2025-02-10-13-46-52-utc-scaled.jpg"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/06/audience-applaud-clapping-happines-appreciation-tr-2025-02-10-13-46-52-utc-300x200.jpg",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_06_audience-applaud-clapping-happines-appreciation-tr-2025-02-10-13-46-52-utc-300x200.jpg"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/06/audience-applaud-clapping-happines-appreciation-tr-2025-02-10-13-46-52-utc-1024x683.jpg",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_06_audience-applaud-clapping-happines-appreciation-tr-2025-02-10-13-46-52-utc-1024x683.jpg"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/06/audience-applaud-clapping-happines-appreciation-tr-2025-02-10-13-46-52-utc-18x12.jpg",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_06_audience-applaud-clapping-happines-appreciation-tr-2025-02-10-13-46-52-utc-18x12.jpg"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/06/audience-applaud-clapping-happines-appreciation-tr-2025-02-10-13-46-52-utc-240x160.jpg",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_06_audience-applaud-clapping-happines-appreciation-tr-2025-02-10-13-46-52-utc-240x160.jpg"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/06/audience-applaud-clapping-happines-appreciation-tr-2025-02-10-13-46-52-utc-180x120.jpg",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_06_audience-applaud-clapping-happines-appreciation-tr-2025-02-10-13-46-52-utc-180x120.jpg"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/06/pexels-fauxels-3183153-scaled.jpg",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_06_pexels-fauxels-3183153-scaled.jpg"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/06/pexels-fauxels-3183153-300x200.jpg",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_06_pexels-fauxels-3183153-300x200.jpg"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/06/pexels-fauxels-3183153-1024x683.jpg",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_06_pexels-fauxels-3183153-1024x683.jpg"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/06/pexels-fauxels-3183153-18x12.jpg",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_06_pexels-fauxels-3183153-18x12.jpg"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/06/pexels-fauxels-3183153-240x160.jpg",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_06_pexels-fauxels-3183153-240x160.jpg"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/06/pexels-fauxels-3183153-180x120.jpg",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_06_pexels-fauxels-3183153-180x120.jpg"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/06/pexels-pavel-danilyuk-8985507-scaled.jpg",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_06_pexels-pavel-danilyuk-8985507-scaled.jpg"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/06/pexels-pavel-danilyuk-8985507-300x200.jpg",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_06_pexels-pavel-danilyuk-8985507-300x200.jpg"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/06/pexels-pavel-danilyuk-8985507-1024x684.jpg",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_06_pexels-pavel-danilyuk-8985507-1024x684.jpg"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/06/pexels-pavel-danilyuk-8985507-18x12.jpg",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_06_pexels-pavel-danilyuk-8985507-18x12.jpg"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/06/pexels-pavel-danilyuk-8985507-240x160.jpg",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_06_pexels-pavel-danilyuk-8985507-240x160.jpg"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/06/pexels-pavel-danilyuk-8985507-180x120.jpg",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_06_pexels-pavel-danilyuk-8985507-180x120.jpg"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/06/pexels-fauxels-3183150-scaled.jpg",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_06_pexels-fauxels-3183150-scaled.jpg"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/06/pexels-fauxels-3183150-300x200.jpg",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_06_pexels-fauxels-3183150-300x200.jpg"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/06/pexels-fauxels-3183150-1024x683.jpg",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_06_pexels-fauxels-3183150-1024x683.jpg"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/06/pexels-fauxels-3183150-18x12.jpg",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_06_pexels-fauxels-3183150-18x12.jpg"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/06/pexels-fauxels-3183150-240x160.jpg",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_06_pexels-fauxels-3183150-240x160.jpg"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/06/pexels-fauxels-3183150-180x120.jpg",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_06_pexels-fauxels-3183150-180x120.jpg"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/06/MQ_Vortrag_Publikum_02.jpg",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_06_MQ_Vortrag_Publikum_02.jpg"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/06/MQ_Vortrag_Publikum_02-300x200.jpg",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_06_MQ_Vortrag_Publikum_02-300x200.jpg"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/06/MQ_Vortrag_Publikum_02-1024x683.jpg",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_06_MQ_Vortrag_Publikum_02-1024x683.jpg"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/06/MQ_Vortrag_Publikum_02-18x12.jpg",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_06_MQ_Vortrag_Publikum_02-18x12.jpg"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/06/MQ_Vortrag_Publikum_02-240x160.jpg",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_06_MQ_Vortrag_Publikum_02-240x160.jpg"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/06/MQ_Vortrag_Publikum_02-180x120.jpg",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_06_MQ_Vortrag_Publikum_02-180x120.jpg"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/04/ai-e_VFTC_01.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_04_ai-e_VFTC_01.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/04/ai-e_VFTC_01-300x136.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_04_ai-e_VFTC_01-300x136.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/04/ai-e_VFTC_01-18x8.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_04_ai-e_VFTC_01-18x8.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/04/ai-e_VFTC_01-240x109.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_04_ai-e_VFTC_01-240x109.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/04/ai-e_VFTC_01-180x82.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_04_ai-e_VFTC_01-180x82.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/04/ai-e_Sprech_Konzept_01.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_04_ai-e_Sprech_Konzept_01.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/04/ai-e_Sprech_Konzept_01-300x136.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_04_ai-e_Sprech_Konzept_01-300x136.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/04/ai-e_Sprech_Konzept_01-18x8.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_04_ai-e_Sprech_Konzept_01-18x8.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/04/ai-e_Sprech_Konzept_01-240x109.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_04_ai-e_Sprech_Konzept_01-240x109.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/04/ai-e_Sprech_Konzept_01-180x82.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_04_ai-e_Sprech_Konzept_01-180x82.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/04/ai-e_TUeV_Rheinland_01.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_04_ai-e_TUeV_Rheinland_01.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/04/ai-e_TUeV_Rheinland_01-300x136.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_04_ai-e_TUeV_Rheinland_01-300x136.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/04/ai-e_TUeV_Rheinland_01-18x8.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_04_ai-e_TUeV_Rheinland_01-18x8.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/04/ai-e_TUeV_Rheinland_01-240x109.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_04_ai-e_TUeV_Rheinland_01-240x109.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/04/ai-e_TUeV_Rheinland_01-180x82.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_04_ai-e_TUeV_Rheinland_01-180x82.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/04/ai-e_Koerting_Institute_01.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_04_ai-e_Koerting_Institute_01.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/04/ai-e_Koerting_Institute_01-300x136.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_04_ai-e_Koerting_Institute_01-300x136.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/04/ai-e_Koerting_Institute_01-18x8.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_04_ai-e_Koerting_Institute_01-18x8.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/04/ai-e_Koerting_Institute_01-240x109.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_04_ai-e_Koerting_Institute_01-240x109.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/04/ai-e_Koerting_Institute_01-180x82.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_04_ai-e_Koerting_Institute_01-180x82.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/04/ai-e_33A_01.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_04_ai-e_33A_01.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/04/ai-e_33A_01-300x136.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_04_ai-e_33A_01-300x136.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/04/ai-e_33A_01-18x8.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_04_ai-e_33A_01-18x8.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/04/ai-e_33A_01-240x109.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_04_ai-e_33A_01-240x109.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/04/ai-e_33A_01-180x82.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_04_ai-e_33A_01-180x82.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/plugins/cf7-multi-step/assets/frontend/img/loader.svg",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_plugins_cf7-multi-step_assets_frontend_img_loader.svg"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/plugins/translatepress-multilingual/assets/js/trp-translate-dom-changes.js?ver=2.10.5",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/js/wp-content_plugins_translatepress-multilingual_assets_js_trp-translate-dom-changes.js"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/plugins/complianz-gdpr/assets/css/document.min.css?ver=1754743891",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/css/wp-content_plugins_complianz-gdpr_assets_css_document.min.css"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/03/iStock-1213740873.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_03_iStock-1213740873.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/03/iStock-1213740873-300x186.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_03_iStock-1213740873-300x186.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/03/iStock-1213740873-1024x636.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_03_iStock-1213740873-1024x636.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/03/iStock-1213740873-18x12.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_03_iStock-1213740873-18x12.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/03/iStock-1213740873-240x149.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_03_iStock-1213740873-240x149.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/03/iStock-1213740873-180x112.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_03_iStock-1213740873-180x112.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/03/Verantwortung-1.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_03_Verantwortung-1.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/03/Verantwortung-1-12x12.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_03_Verantwortung-1-12x12.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/03/Verantwortung-1-240x236.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_03_Verantwortung-1-240x236.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/03/Verantwortung-1-180x177.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_03_Verantwortung-1-180x177.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/04/Exzellenz.svg",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_04_Exzellenz.svg"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/04/Nachhaltigkeit.svg",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_04_Nachhaltigkeit.svg"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/04/Kollaboration.svg",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_04_Kollaboration.svg"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/03/istockphoto-2150897703-1024x1024-2.jpg",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_03_istockphoto-2150897703-1024x1024-2.jpg"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/03/istockphoto-2150897703-1024x1024-2-300x200.jpg",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_03_istockphoto-2150897703-1024x1024-2-300x200.jpg"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/03/istockphoto-2150897703-1024x1024-2-18x12.jpg",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_03_istockphoto-2150897703-1024x1024-2-18x12.jpg"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/03/istockphoto-2150897703-1024x1024-2-240x160.jpg",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_03_istockphoto-2150897703-1024x1024-2-240x160.jpg"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/03/istockphoto-2150897703-1024x1024-2-180x120.jpg",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_03_istockphoto-2150897703-1024x1024-2-180x120.jpg"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/03/istockphoto-1177375842-1024x1024-1.jpg",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_03_istockphoto-1177375842-1024x1024-1.jpg"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/03/istockphoto-1177375842-1024x1024-1-300x200.jpg",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_03_istockphoto-1177375842-1024x1024-1-300x200.jpg"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/03/istockphoto-1177375842-1024x1024-1-18x12.jpg",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_03_istockphoto-1177375842-1024x1024-1-18x12.jpg"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/03/istockphoto-1177375842-1024x1024-1-240x160.jpg",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_03_istockphoto-1177375842-1024x1024-1-240x160.jpg"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/03/istockphoto-1177375842-1024x1024-1-180x120.jpg",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_03_istockphoto-1177375842-1024x1024-1-180x120.jpg"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/03/istockphoto-1027724108-1024x1024-1.jpg",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_03_istockphoto-1027724108-1024x1024-1.jpg"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/03/istockphoto-1027724108-1024x1024-1-300x200.jpg",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_03_istockphoto-1027724108-1024x1024-1-300x200.jpg"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/03/istockphoto-1027724108-1024x1024-1-18x12.jpg",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_03_istockphoto-1027724108-1024x1024-1-18x12.jpg"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/03/istockphoto-1027724108-1024x1024-1-240x160.jpg",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_03_istockphoto-1027724108-1024x1024-1-240x160.jpg"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/03/istockphoto-1027724108-1024x1024-1-180x120.jpg",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_03_istockphoto-1027724108-1024x1024-1-180x120.jpg"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/03/istockphoto-649295434-1024x1024-1.jpg",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_03_istockphoto-649295434-1024x1024-1.jpg"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/03/istockphoto-649295434-1024x1024-1-300x200.jpg",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_03_istockphoto-649295434-1024x1024-1-300x200.jpg"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/03/istockphoto-649295434-1024x1024-1-18x12.jpg",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_03_istockphoto-649295434-1024x1024-1-18x12.jpg"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/03/istockphoto-649295434-1024x1024-1-240x160.jpg",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_03_istockphoto-649295434-1024x1024-1-240x160.jpg"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/03/istockphoto-649295434-1024x1024-1-180x120.jpg",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_03_istockphoto-649295434-1024x1024-1-180x120.jpg"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/03/istockphoto-2162033606-1024x1024-1.jpg",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_03_istockphoto-2162033606-1024x1024-1.jpg"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/03/istockphoto-2162033606-1024x1024-1-300x200.jpg",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_03_istockphoto-2162033606-1024x1024-1-300x200.jpg"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/03/istockphoto-2162033606-1024x1024-1-18x12.jpg",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_03_istockphoto-2162033606-1024x1024-1-18x12.jpg"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/03/istockphoto-2162033606-1024x1024-1-240x160.jpg",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_03_istockphoto-2162033606-1024x1024-1-240x160.jpg"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/03/istockphoto-2162033606-1024x1024-1-180x120.jpg",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_03_istockphoto-2162033606-1024x1024-1-180x120.jpg"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/06/MQ_Vortrag_Publikum.jpeg",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_06_MQ_Vortrag_Publikum.jpeg"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/06/MQ_Vortrag_Publikum-300x206.jpeg",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_06_MQ_Vortrag_Publikum-300x206.jpeg"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/06/MQ_Vortrag_Publikum-1024x703.jpeg",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_06_MQ_Vortrag_Publikum-1024x703.jpeg"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/06/MQ_Vortrag_Publikum-18x12.jpeg",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_06_MQ_Vortrag_Publikum-18x12.jpeg"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/06/MQ_Vortrag_Publikum-240x165.jpeg",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_06_MQ_Vortrag_Publikum-240x165.jpeg"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/06/MQ_Vortrag_Publikum-180x124.jpeg",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_06_MQ_Vortrag_Publikum-180x124.jpeg"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/04/Mario-Levenhagen_HR-standardized.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_04_Mario-Levenhagen_HR-standardized.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/04/Mario-Levenhagen_HR-standardized-300x300.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_04_Mario-Levenhagen_HR-standardized-300x300.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/04/Mario-Levenhagen_HR-standardized-150x150.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_04_Mario-Levenhagen_HR-standardized-150x150.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/04/Mario-Levenhagen_HR-standardized-12x12.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_04_Mario-Levenhagen_HR-standardized-12x12.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/04/Mario-Levenhagen_HR-standardized-240x240.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_04_Mario-Levenhagen_HR-standardized-240x240.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/04/Mario-Levenhagen_HR-standardized-180x180.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_04_Mario-Levenhagen_HR-standardized-180x180.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/10/andreas-rodenbeck.256x256-standardized.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_10_andreas-rodenbeck.256x256-standardized.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/10/andreas-rodenbeck.256x256-standardized-300x300.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_10_andreas-rodenbeck.256x256-standardized-300x300.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/10/andreas-rodenbeck.256x256-standardized-150x150.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_10_andreas-rodenbeck.256x256-standardized-150x150.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/10/andreas-rodenbeck.256x256-standardized-12x12.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_10_andreas-rodenbeck.256x256-standardized-12x12.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/10/andreas-rodenbeck.256x256-standardized-240x240.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_10_andreas-rodenbeck.256x256-standardized-240x240.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/10/andreas-rodenbeck.256x256-standardized-180x180.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_10_andreas-rodenbeck.256x256-standardized-180x180.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/04/Rectangle-12-standardized.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_04_Rectangle-12-standardized.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/04/Rectangle-12-standardized-300x300.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_04_Rectangle-12-standardized-300x300.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/04/Rectangle-12-standardized-150x150.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_04_Rectangle-12-standardized-150x150.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/04/Rectangle-12-standardized-12x12.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_04_Rectangle-12-standardized-12x12.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/04/Rectangle-12-standardized-240x240.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_04_Rectangle-12-standardized-240x240.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/04/Rectangle-12-standardized-180x180.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_04_Rectangle-12-standardized-180x180.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/04/Kristin_Goas_Foto_HR-standardized.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_04_Kristin_Goas_Foto_HR-standardized.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/04/Kristin_Goas_Foto_HR-standardized-300x300.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_04_Kristin_Goas_Foto_HR-standardized-300x300.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/04/Kristin_Goas_Foto_HR-standardized-150x150.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_04_Kristin_Goas_Foto_HR-standardized-150x150.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/04/Kristin_Goas_Foto_HR-standardized-12x12.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_04_Kristin_Goas_Foto_HR-standardized-12x12.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/04/Kristin_Goas_Foto_HR-standardized-240x240.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_04_Kristin_Goas_Foto_HR-standardized-240x240.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/04/Kristin_Goas_Foto_HR-standardized-180x180.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_04_Kristin_Goas_Foto_HR-standardized-180x180.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/04/Meike-Quentin-1024x1024-standardized.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_04_Meike-Quentin-1024x1024-standardized.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/04/Meike-Quentin-1024x1024-standardized-300x300.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_04_Meike-Quentin-1024x1024-standardized-300x300.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/04/Meike-Quentin-1024x1024-standardized-150x150.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_04_Meike-Quentin-1024x1024-standardized-150x150.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/04/Meike-Quentin-1024x1024-standardized-12x12.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_04_Meike-Quentin-1024x1024-standardized-12x12.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/04/Meike-Quentin-1024x1024-standardized-240x240.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_04_Meike-Quentin-1024x1024-standardized-240x240.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/04/Meike-Quentin-1024x1024-standardized-180x180.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_04_Meike-Quentin-1024x1024-standardized-180x180.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/04/Rene_Goebels_HR-1024x1024-standardized.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_04_Rene_Goebels_HR-1024x1024-standardized.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/04/Rene_Goebels_HR-1024x1024-standardized-300x300.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_04_Rene_Goebels_HR-1024x1024-standardized-300x300.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/04/Rene_Goebels_HR-1024x1024-standardized-150x150.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_04_Rene_Goebels_HR-1024x1024-standardized-150x150.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/04/Rene_Goebels_HR-1024x1024-standardized-12x12.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_04_Rene_Goebels_HR-1024x1024-standardized-12x12.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/04/Rene_Goebels_HR-1024x1024-standardized-240x240.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_04_Rene_Goebels_HR-1024x1024-standardized-240x240.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/04/Rene_Goebels_HR-1024x1024-standardized-180x180.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_04_Rene_Goebels_HR-1024x1024-standardized-180x180.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/04/Stephan_Grandy_HR-standardized.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_04_Stephan_Grandy_HR-standardized.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/04/Stephan_Grandy_HR-standardized-300x300.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_04_Stephan_Grandy_HR-standardized-300x300.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/04/Stephan_Grandy_HR-standardized-150x150.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_04_Stephan_Grandy_HR-standardized-150x150.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/04/Stephan_Grandy_HR-standardized-12x12.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_04_Stephan_Grandy_HR-standardized-12x12.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/04/Stephan_Grandy_HR-standardized-240x240.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_04_Stephan_Grandy_HR-standardized-240x240.png"
+    },
+    {
+      "remote": "https://ai-experts.network/wp-content/uploads/2025/04/Stephan_Grandy_HR-standardized-180x180.png",
+      "local": "/Users/andreas/__Business/_Python Projects/AI-Experts-Website/ai-experts-clone/assets/images/wp-content_uploads_2025_04_Stephan_Grandy_HR-standardized-180x180.png"
+    }
+  ],
+  "failed_pages": [],
+  "failed_assets": [
+    {
+      "url": "https://ai-experts.network/wp-content/plugins/translatepress-multilingual/assets/images/wp-content_plugins_translatepress-multilingual_assets_images_arrow-down-3101.svg",
+      "error": "404 Client Error: Not Found for url: https://ai-experts.network/de/wp-content/plugins/translatepress-multilingual/assets/images/wp-content_plugins_translatepress-multilingual_assets_images_arrow-down-3101.svg/"
+    },
+    {
+      "url": "https://ai-experts.network/wp-content/plugins/complianz-gdpr/assets/images/wp-content_plugins_complianz-gdpr_assets_images_chevron-down.svg",
+      "error": "404 Client Error: Not Found for url: https://ai-experts.network/de/wp-content/plugins/complianz-gdpr/assets/images/wp-content_plugins_complianz-gdpr_assets_images_chevron-down.svg/"
+    }
+  ],
+  "stats": {
+    "pages_crawled": 56,
+    "assets_downloaded": 169,
+    "pages_failed": 0,
+    "assets_failed": 2
+  }
+}
