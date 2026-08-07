@@ -1,0 +1,13 @@
+DirectoryIndex index.html
+Options -Indexes
+
+RewriteEngine On
+
+# Preserve the language-neutral entry points used by the original website.
+RewriteRule ^unser-ansatz/?$ /de/unser-ansatz/ [R=301,L]
+RewriteRule ^ki-expertinnen/?$ /de/ki-expertinnen/ [R=301,L]
+RewriteRule ^ki-workshops-kompetenzaufbau/?$ /de/ki-workshops-kompetenzaufbau/ [R=301,L]
+RewriteRule ^ki-strategieberatung-bedarfsanalyse/?$ /de/ki-strategieberatung-bedarfsanalyse/ [R=301,L]
+RewriteRule ^ki-executive-coaching-change/?$ /de/ki-executive-coaching-change/ [R=301,L]
+RewriteRule ^ki-umsetzung-automatisierung/?$ /de/ki-umsetzung-automatisierung/ [R=301,L]
+RewriteRule ^ki-keynotes/?$ /de/ki-keynotes/ [R=301,L]

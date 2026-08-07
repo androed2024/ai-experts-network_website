@@ -1,0 +1,190 @@
+viewport,page_key,original_screenshot,clone_screenshot,diff_screenshot,width,height,changed_pixels,changed_ratio,mean_abs_difference,severity
+desktop,de,screenshots/original/desktop/de.png,screenshots/clone/desktop/de.png,screenshots/diff/desktop/de.png,1440,1156,657861,0.395197,0.183682,kritisch
+desktop,de__datenschutz,screenshots/original/desktop/de__datenschutz.png,screenshots/clone/desktop/de__datenschutz.png,screenshots/diff/desktop/de__datenschutz.png,1280,720,2410,0.002615,0.000692,identisch/vernachlässigbar
+desktop,de__faq,screenshots/original/desktop/de__faq.png,screenshots/clone/desktop/de__faq.png,screenshots/diff/desktop/de__faq.png,1280,720,2410,0.002615,0.000692,identisch/vernachlässigbar
+desktop,de__impressum,screenshots/original/desktop/de__impressum.png,screenshots/clone/desktop/de__impressum.png,screenshots/diff/desktop/de__impressum.png,1280,720,2410,0.002615,0.000692,identisch/vernachlässigbar
+desktop,de__ki-executive-coaching-change,screenshots/original/desktop/de__ki-executive-coaching-change.png,screenshots/clone/desktop/de__ki-executive-coaching-change.png,screenshots/diff/desktop/de__ki-executive-coaching-change.png,1440,1156,474370,0.284969,0.105712,mittel
+desktop,de__ki-expertinnen,screenshots/original/desktop/de__ki-expertinnen.png,screenshots/clone/desktop/de__ki-expertinnen.png,screenshots/diff/desktop/de__ki-expertinnen.png,1280,720,2410,0.002615,0.000692,identisch/vernachlässigbar
+desktop,de__ki-keynotes,screenshots/original/desktop/de__ki-keynotes.png,screenshots/clone/desktop/de__ki-keynotes.png,screenshots/diff/desktop/de__ki-keynotes.png,1440,1156,422674,0.253913,0.093048,mittel
+desktop,de__ki-strategieberatung-bedarfsanalyse,screenshots/original/desktop/de__ki-strategieberatung-bedarfsanalyse.png,screenshots/clone/desktop/de__ki-strategieberatung-bedarfsanalyse.png,screenshots/diff/desktop/de__ki-strategieberatung-bedarfsanalyse.png,1440,1156,414798,0.249182,0.101225,mittel
+desktop,de__ki-umsetzung-automatisierung,screenshots/original/desktop/de__ki-umsetzung-automatisierung.png,screenshots/clone/desktop/de__ki-umsetzung-automatisierung.png,screenshots/diff/desktop/de__ki-umsetzung-automatisierung.png,1440,1156,491413,0.295207,0.112051,mittel
+desktop,de__ki-workshops-kompetenzaufbau,screenshots/original/desktop/de__ki-workshops-kompetenzaufbau.png,screenshots/clone/desktop/de__ki-workshops-kompetenzaufbau.png,screenshots/diff/desktop/de__ki-workshops-kompetenzaufbau.png,1440,1156,490373,0.294582,0.109465,mittel
+desktop,de__kontakt,screenshots/original/desktop/de__kontakt.png,screenshots/clone/desktop/de__kontakt.png,screenshots/diff/desktop/de__kontakt.png,1440,1156,64310,0.038633,0.023021,niedrig
+desktop,de__leistungen,screenshots/original/desktop/de__leistungen.png,screenshots/clone/desktop/de__leistungen.png,screenshots/diff/desktop/de__leistungen.png,1440,1156,78804,0.047340,0.027633,niedrig
+desktop,de__team__andreas-rodenbeck,screenshots/original/desktop/de__team__andreas-rodenbeck.png,screenshots/clone/desktop/de__team__andreas-rodenbeck.png,screenshots/diff/desktop/de__team__andreas-rodenbeck.png,1280,720,2416,0.002622,0.000986,identisch/vernachlässigbar
+desktop,de__team__kai-oestreicher,screenshots/original/desktop/de__team__kai-oestreicher.png,screenshots/clone/desktop/de__team__kai-oestreicher.png,screenshots/diff/desktop/de__team__kai-oestreicher.png,1440,1156,875346,0.525847,0.434845,kritisch
+desktop,de__team__kristin-goas-oses,screenshots/original/desktop/de__team__kristin-goas-oses.png,screenshots/clone/desktop/de__team__kristin-goas-oses.png,screenshots/diff/desktop/de__team__kristin-goas-oses.png,1440,1156,865336,0.519834,0.434736,kritisch
+desktop,de__team__mario-levenhagen,screenshots/original/desktop/de__team__mario-levenhagen.png,screenshots/clone/desktop/de__team__mario-levenhagen.png,screenshots/diff/desktop/de__team__mario-levenhagen.png,1440,1156,878155,0.527534,0.434166,kritisch
+desktop,de__team__meike-quentin,screenshots/original/desktop/de__team__meike-quentin.png,screenshots/clone/desktop/de__team__meike-quentin.png,screenshots/diff/desktop/de__team__meike-quentin.png,1280,720,2416,0.002622,0.000874,identisch/vernachlässigbar
+desktop,de__team__rene-goebels,screenshots/original/desktop/de__team__rene-goebels.png,screenshots/clone/desktop/de__team__rene-goebels.png,screenshots/diff/desktop/de__team__rene-goebels.png,1280,720,2540,0.002756,0.001158,identisch/vernachlässigbar
+desktop,de__team__stephan-grandy,screenshots/original/desktop/de__team__stephan-grandy.png,screenshots/clone/desktop/de__team__stephan-grandy.png,screenshots/diff/desktop/de__team__stephan-grandy.png,1440,1156,864749,0.519481,0.433931,kritisch
+desktop,de__team_membber_city__bensheim,screenshots/original/desktop/de__team_membber_city__bensheim.png,screenshots/clone/desktop/de__team_membber_city__bensheim.png,screenshots/diff/desktop/de__team_membber_city__bensheim.png,1440,1156,880162,0.528740,0.425173,kritisch
+desktop,de__team_membber_city__dortmund,screenshots/original/desktop/de__team_membber_city__dortmund.png,screenshots/clone/desktop/de__team_membber_city__dortmund.png,screenshots/diff/desktop/de__team_membber_city__dortmund.png,1440,1156,904709,0.543486,0.434164,kritisch
+desktop,de__team_membber_city__frankfurt,screenshots/original/desktop/de__team_membber_city__frankfurt.png,screenshots/clone/desktop/de__team_membber_city__frankfurt.png,screenshots/diff/desktop/de__team_membber_city__frankfurt.png,1440,1156,921919,0.553825,0.408394,kritisch
+desktop,de__team_membber_city__freigericht,screenshots/original/desktop/de__team_membber_city__freigericht.png,screenshots/clone/desktop/de__team_membber_city__freigericht.png,screenshots/diff/desktop/de__team_membber_city__freigericht.png,1280,720,4305,0.004671,0.002981,identisch/vernachlässigbar
+desktop,de__team_membber_city__hamburg,screenshots/original/desktop/de__team_membber_city__hamburg.png,screenshots/clone/desktop/de__team_membber_city__hamburg.png,screenshots/diff/desktop/de__team_membber_city__hamburg.png,1280,720,2427,0.002633,0.001425,identisch/vernachlässigbar
+desktop,de__team_membber_city__mallorca,screenshots/original/desktop/de__team_membber_city__mallorca.png,screenshots/clone/desktop/de__team_membber_city__mallorca.png,screenshots/diff/desktop/de__team_membber_city__mallorca.png,1440,1156,896911,0.538802,0.406953,kritisch
+desktop,de__team_membber_city__munchen,screenshots/original/desktop/de__team_membber_city__munchen.png,screenshots/clone/desktop/de__team_membber_city__munchen.png,screenshots/diff/desktop/de__team_membber_city__munchen.png,1280,720,2416,0.002622,0.001819,identisch/vernachlässigbar
+desktop,de__unser-ansatz,screenshots/original/desktop/de__unser-ansatz.png,screenshots/clone/desktop/de__unser-ansatz.png,screenshots/diff/desktop/de__unser-ansatz.png,1440,1156,345213,0.207380,0.083164,mittel
+desktop,en,screenshots/original/desktop/en.png,screenshots/clone/desktop/en.png,screenshots/diff/desktop/en.png,1440,1156,696074,0.418153,0.205925,kritisch
+desktop,en__datenschutz,screenshots/original/desktop/en__datenschutz.png,screenshots/clone/desktop/en__datenschutz.png,screenshots/diff/desktop/en__datenschutz.png,1440,1156,53628,0.032216,0.017555,niedrig
+desktop,en__faq,screenshots/original/desktop/en__faq.png,screenshots/clone/desktop/en__faq.png,screenshots/diff/desktop/en__faq.png,1440,1156,81689,0.049073,0.030349,niedrig
+desktop,en__impressum,screenshots/original/desktop/en__impressum.png,screenshots/clone/desktop/en__impressum.png,screenshots/diff/desktop/en__impressum.png,1440,1156,69200,0.041571,0.023362,niedrig
+desktop,en__ki-executive-coaching-change,screenshots/original/desktop/en__ki-executive-coaching-change.png,screenshots/clone/desktop/en__ki-executive-coaching-change.png,screenshots/diff/desktop/en__ki-executive-coaching-change.png,1440,1156,431670,0.259317,0.103892,mittel
+desktop,en__ki-expertinnen,screenshots/original/desktop/en__ki-expertinnen.png,screenshots/clone/desktop/en__ki-expertinnen.png,screenshots/diff/desktop/en__ki-expertinnen.png,1440,1156,230108,0.138233,0.070374,mittel
+desktop,en__ki-keynotes,screenshots/original/desktop/en__ki-keynotes.png,screenshots/clone/desktop/en__ki-keynotes.png,screenshots/diff/desktop/en__ki-keynotes.png,1280,720,3211,0.003484,0.002617,identisch/vernachlässigbar
+desktop,en__ki-strategieberatung-bedarfsanalyse,screenshots/original/desktop/en__ki-strategieberatung-bedarfsanalyse.png,screenshots/clone/desktop/en__ki-strategieberatung-bedarfsanalyse.png,screenshots/diff/desktop/en__ki-strategieberatung-bedarfsanalyse.png,1440,1156,454083,0.272782,0.101287,mittel
+desktop,en__ki-umsetzung-automatisierung,screenshots/original/desktop/en__ki-umsetzung-automatisierung.png,screenshots/clone/desktop/en__ki-umsetzung-automatisierung.png,screenshots/diff/desktop/en__ki-umsetzung-automatisierung.png,1280,720,2750,0.002984,0.002318,identisch/vernachlässigbar
+desktop,en__ki-workshops-kompetenzaufbau,screenshots/original/desktop/en__ki-workshops-kompetenzaufbau.png,screenshots/clone/desktop/en__ki-workshops-kompetenzaufbau.png,screenshots/diff/desktop/en__ki-workshops-kompetenzaufbau.png,1280,720,2600,0.002821,0.002218,identisch/vernachlässigbar
+desktop,en__kontakt,screenshots/original/desktop/en__kontakt.png,screenshots/clone/desktop/en__kontakt.png,screenshots/diff/desktop/en__kontakt.png,1440,1156,58929,0.035400,0.021090,niedrig
+desktop,en__leistungen,screenshots/original/desktop/en__leistungen.png,screenshots/clone/desktop/en__leistungen.png,screenshots/diff/desktop/en__leistungen.png,1280,720,31058,0.033700,0.016391,niedrig
+desktop,en__team__andreas-rodenbeck,screenshots/original/desktop/en__team__andreas-rodenbeck.png,screenshots/clone/desktop/en__team__andreas-rodenbeck.png,screenshots/diff/desktop/en__team__andreas-rodenbeck.png,1280,720,2324,0.002522,0.000973,identisch/vernachlässigbar
+desktop,en__team__kai-oestreicher,screenshots/original/desktop/en__team__kai-oestreicher.png,screenshots/clone/desktop/en__team__kai-oestreicher.png,screenshots/diff/desktop/en__team__kai-oestreicher.png,1280,720,2346,0.002546,0.000943,identisch/vernachlässigbar
+desktop,en__team__kristin-goas-oses,screenshots/original/desktop/en__team__kristin-goas-oses.png,screenshots/clone/desktop/en__team__kristin-goas-oses.png,screenshots/diff/desktop/en__team__kristin-goas-oses.png,1440,1156,863640,0.518815,0.434190,kritisch
+desktop,en__team__mario-levenhagen,screenshots/original/desktop/en__team__mario-levenhagen.png,screenshots/clone/desktop/en__team__mario-levenhagen.png,screenshots/diff/desktop/en__team__mario-levenhagen.png,1280,720,2326,0.002524,0.001008,identisch/vernachlässigbar
+desktop,en__team__meike-quentin,screenshots/original/desktop/en__team__meike-quentin.png,screenshots/clone/desktop/en__team__meike-quentin.png,screenshots/diff/desktop/en__team__meike-quentin.png,1440,1156,870012,0.522643,0.435241,kritisch
+desktop,en__team__rene-goebels,screenshots/original/desktop/en__team__rene-goebels.png,screenshots/clone/desktop/en__team__rene-goebels.png,screenshots/diff/desktop/en__team__rene-goebels.png,1280,720,2448,0.002656,0.001145,identisch/vernachlässigbar
+desktop,en__team__stephan-grandy,screenshots/original/desktop/en__team__stephan-grandy.png,screenshots/clone/desktop/en__team__stephan-grandy.png,screenshots/diff/desktop/en__team__stephan-grandy.png,1440,1156,858933,0.515987,0.433456,kritisch
+desktop,en__team_membber_city__bensheim,screenshots/original/desktop/en__team_membber_city__bensheim.png,screenshots/clone/desktop/en__team_membber_city__bensheim.png,screenshots/diff/desktop/en__team_membber_city__bensheim.png,1440,1156,880146,0.528731,0.425150,kritisch
+desktop,en__team_membber_city__dortmund,screenshots/original/desktop/en__team_membber_city__dortmund.png,screenshots/clone/desktop/en__team_membber_city__dortmund.png,screenshots/diff/desktop/en__team_membber_city__dortmund.png,1280,720,2359,0.002560,0.001634,identisch/vernachlässigbar
+desktop,en__team_membber_city__frankfurt,screenshots/original/desktop/en__team_membber_city__frankfurt.png,screenshots/clone/desktop/en__team_membber_city__frankfurt.png,screenshots/diff/desktop/en__team_membber_city__frankfurt.png,1280,720,2344,0.002543,0.001981,identisch/vernachlässigbar
+desktop,en__team_membber_city__freigericht,screenshots/original/desktop/en__team_membber_city__freigericht.png,screenshots/clone/desktop/en__team_membber_city__freigericht.png,screenshots/diff/desktop/en__team_membber_city__freigericht.png,1280,720,4213,0.004571,0.002967,identisch/vernachlässigbar
+desktop,en__team_membber_city__hamburg,screenshots/original/desktop/en__team_membber_city__hamburg.png,screenshots/clone/desktop/en__team_membber_city__hamburg.png,screenshots/diff/desktop/en__team_membber_city__hamburg.png,1440,1156,891883,0.535781,0.438287,kritisch
+desktop,en__team_membber_city__mallorca,screenshots/original/desktop/en__team_membber_city__mallorca.png,screenshots/clone/desktop/en__team_membber_city__mallorca.png,screenshots/diff/desktop/en__team_membber_city__mallorca.png,1440,1156,896895,0.538792,0.406930,kritisch
+desktop,en__team_membber_city__munchen,screenshots/original/desktop/en__team_membber_city__munchen.png,screenshots/clone/desktop/en__team_membber_city__munchen.png,screenshots/diff/desktop/en__team_membber_city__munchen.png,1280,720,2324,0.002522,0.001805,identisch/vernachlässigbar
+desktop,en__unser-ansatz,screenshots/original/desktop/en__unser-ansatz.png,screenshots/clone/desktop/en__unser-ansatz.png,screenshots/diff/desktop/en__unser-ansatz.png,1440,1156,335696,0.201663,0.079872,mittel
+desktop,ki-executive-coaching-change,screenshots/original/desktop/ki-executive-coaching-change.png,screenshots/clone/desktop/ki-executive-coaching-change.png,screenshots/diff/desktop/ki-executive-coaching-change.png,1440,1156,260667,0.156591,0.097293,mittel
+desktop,ki-expertinnen,screenshots/original/desktop/ki-expertinnen.png,screenshots/clone/desktop/ki-expertinnen.png,screenshots/diff/desktop/ki-expertinnen.png,1280,720,76371,0.082868,0.046535,niedrig
+desktop,ki-keynotes,screenshots/original/desktop/ki-keynotes.png,screenshots/clone/desktop/ki-keynotes.png,screenshots/diff/desktop/ki-keynotes.png,1280,720,246072,0.267005,0.127056,mittel
+desktop,ki-strategieberatung-bedarfsanalyse,screenshots/original/desktop/ki-strategieberatung-bedarfsanalyse.png,screenshots/clone/desktop/ki-strategieberatung-bedarfsanalyse.png,screenshots/diff/desktop/ki-strategieberatung-bedarfsanalyse.png,1280,720,260247,0.282386,0.116817,mittel
+desktop,ki-umsetzung-automatisierung,screenshots/original/desktop/ki-umsetzung-automatisierung.png,screenshots/clone/desktop/ki-umsetzung-automatisierung.png,screenshots/diff/desktop/ki-umsetzung-automatisierung.png,1440,1156,459991,0.276331,0.140666,mittel
+desktop,ki-workshops-kompetenzaufbau,screenshots/original/desktop/ki-workshops-kompetenzaufbau.png,screenshots/clone/desktop/ki-workshops-kompetenzaufbau.png,screenshots/diff/desktop/ki-workshops-kompetenzaufbau.png,1280,720,244748,0.265569,0.135455,mittel
+desktop,kontakt,screenshots/original/desktop/kontakt.png,screenshots/clone/desktop/kontakt.png,screenshots/diff/desktop/kontakt.png,1440,1156,64107,0.038511,0.022977,niedrig
+desktop,root,screenshots/original/desktop/root.png,screenshots/clone/desktop/root.png,screenshots/diff/desktop/root.png,1440,1156,657861,0.395197,0.183682,kritisch
+desktop,unser-ansatz,screenshots/original/desktop/unser-ansatz.png,screenshots/clone/desktop/unser-ansatz.png,screenshots/diff/desktop/unser-ansatz.png,1440,1156,368317,0.221259,0.076359,mittel
+tablet,de,screenshots/original/tablet/de.png,screenshots/clone/tablet/de.png,screenshots/diff/tablet/de.png,1440,1156,657861,0.395197,0.183682,kritisch
+tablet,de__datenschutz,,screenshots/clone/tablet/de__datenschutz.png,,,,,,,nicht auswertbar: Screenshot fehlt
+tablet,de__faq,screenshots/original/tablet/de__faq.png,screenshots/clone/tablet/de__faq.png,screenshots/diff/tablet/de__faq.png,1440,1156,82597,0.049619,0.030773,niedrig
+tablet,de__impressum,screenshots/original/tablet/de__impressum.png,screenshots/clone/tablet/de__impressum.png,screenshots/diff/tablet/de__impressum.png,1280,720,2412,0.002617,0.000696,identisch/vernachlässigbar
+tablet,de__ki-executive-coaching-change,screenshots/original/tablet/de__ki-executive-coaching-change.png,screenshots/clone/tablet/de__ki-executive-coaching-change.png,screenshots/diff/tablet/de__ki-executive-coaching-change.png,1440,1156,474372,0.284970,0.105707,mittel
+tablet,de__ki-expertinnen,screenshots/original/tablet/de__ki-expertinnen.png,screenshots/clone/tablet/de__ki-expertinnen.png,screenshots/diff/tablet/de__ki-expertinnen.png,1280,1156,165264,0.111689,0.064100,niedrig
+tablet,de__ki-keynotes,screenshots/original/tablet/de__ki-keynotes.png,screenshots/clone/tablet/de__ki-keynotes.png,screenshots/diff/tablet/de__ki-keynotes.png,1280,720,3308,0.003589,0.002631,identisch/vernachlässigbar
+tablet,de__ki-strategieberatung-bedarfsanalyse,screenshots/original/tablet/de__ki-strategieberatung-bedarfsanalyse.png,screenshots/clone/tablet/de__ki-strategieberatung-bedarfsanalyse.png,screenshots/diff/tablet/de__ki-strategieberatung-bedarfsanalyse.png,1280,1156,503951,0.340581,0.134538,mittel
+tablet,de__ki-umsetzung-automatisierung,screenshots/original/tablet/de__ki-umsetzung-automatisierung.png,screenshots/clone/tablet/de__ki-umsetzung-automatisierung.png,screenshots/diff/tablet/de__ki-umsetzung-automatisierung.png,1280,720,2847,0.003089,0.002332,identisch/vernachlässigbar
+tablet,de__ki-workshops-kompetenzaufbau,screenshots/original/tablet/de__ki-workshops-kompetenzaufbau.png,screenshots/clone/tablet/de__ki-workshops-kompetenzaufbau.png,screenshots/diff/tablet/de__ki-workshops-kompetenzaufbau.png,1280,720,2740,0.002973,0.002230,identisch/vernachlässigbar
+tablet,de__kontakt,screenshots/original/tablet/de__kontakt.png,screenshots/clone/tablet/de__kontakt.png,screenshots/diff/tablet/de__kontakt.png,1280,720,7927,0.008601,0.001914,identisch/vernachlässigbar
+tablet,de__leistungen,screenshots/original/tablet/de__leistungen.png,screenshots/clone/tablet/de__leistungen.png,screenshots/diff/tablet/de__leistungen.png,1280,720,2410,0.002615,0.000692,identisch/vernachlässigbar
+tablet,de__team__andreas-rodenbeck,,screenshots/clone/tablet/de__team__andreas-rodenbeck.png,,,,,,,nicht auswertbar: Screenshot fehlt
+tablet,de__team__kai-oestreicher,screenshots/original/tablet/de__team__kai-oestreicher.png,screenshots/clone/tablet/de__team__kai-oestreicher.png,screenshots/diff/tablet/de__team__kai-oestreicher.png,1280,720,367852,0.399145,0.287397,kritisch
+tablet,de__team__kristin-goas-oses,screenshots/original/tablet/de__team__kristin-goas-oses.png,screenshots/clone/tablet/de__team__kristin-goas-oses.png,screenshots/diff/tablet/de__team__kristin-goas-oses.png,1280,720,2417,0.002623,0.001019,identisch/vernachlässigbar
+tablet,de__team__mario-levenhagen,,screenshots/clone/tablet/de__team__mario-levenhagen.png,,,,,,,nicht auswertbar: Screenshot fehlt
+tablet,de__team__meike-quentin,screenshots/original/tablet/de__team__meike-quentin.png,screenshots/clone/tablet/de__team__meike-quentin.png,screenshots/diff/tablet/de__team__meike-quentin.png,1280,720,371270,0.402854,0.287582,kritisch
+tablet,de__team__rene-goebels,screenshots/original/tablet/de__team__rene-goebels.png,screenshots/clone/tablet/de__team__rene-goebels.png,screenshots/diff/tablet/de__team__rene-goebels.png,1280,720,2536,0.002752,0.001148,identisch/vernachlässigbar
+tablet,de__team__stephan-grandy,screenshots/original/tablet/de__team__stephan-grandy.png,screenshots/clone/tablet/de__team__stephan-grandy.png,screenshots/diff/tablet/de__team__stephan-grandy.png,1280,720,364143,0.395120,0.288885,kritisch
+tablet,de__team_membber_city__bensheim,screenshots/original/tablet/de__team_membber_city__bensheim.png,screenshots/clone/tablet/de__team_membber_city__bensheim.png,screenshots/diff/tablet/de__team_membber_city__bensheim.png,1280,720,2469,0.002679,0.001541,identisch/vernachlässigbar
+tablet,de__team_membber_city__dortmund,screenshots/original/tablet/de__team_membber_city__dortmund.png,screenshots/clone/tablet/de__team_membber_city__dortmund.png,screenshots/diff/tablet/de__team_membber_city__dortmund.png,1280,720,2465,0.002675,0.001644,identisch/vernachlässigbar
+tablet,de__team_membber_city__frankfurt,screenshots/original/tablet/de__team_membber_city__frankfurt.png,screenshots/clone/tablet/de__team_membber_city__frankfurt.png,screenshots/diff/tablet/de__team_membber_city__frankfurt.png,1280,720,521506,0.565870,0.331436,kritisch
+tablet,de__team_membber_city__freigericht,screenshots/original/tablet/de__team_membber_city__freigericht.png,screenshots/clone/tablet/de__team_membber_city__freigericht.png,screenshots/diff/tablet/de__team_membber_city__freigericht.png,1280,720,4812,0.005221,0.003073,identisch/vernachlässigbar
+tablet,de__team_membber_city__hamburg,screenshots/original/tablet/de__team_membber_city__hamburg.png,screenshots/clone/tablet/de__team_membber_city__hamburg.png,screenshots/diff/tablet/de__team_membber_city__hamburg.png,1280,720,2434,0.002641,0.001439,identisch/vernachlässigbar
+tablet,de__team_membber_city__mallorca,screenshots/original/tablet/de__team_membber_city__mallorca.png,screenshots/clone/tablet/de__team_membber_city__mallorca.png,screenshots/diff/tablet/de__team_membber_city__mallorca.png,1280,720,510286,0.553696,0.354034,kritisch
+tablet,de__team_membber_city__munchen,screenshots/original/tablet/de__team_membber_city__munchen.png,screenshots/clone/tablet/de__team_membber_city__munchen.png,screenshots/diff/tablet/de__team_membber_city__munchen.png,1280,720,2416,0.002622,0.001829,identisch/vernachlässigbar
+tablet,de__unser-ansatz,screenshots/original/tablet/de__unser-ansatz.png,screenshots/clone/tablet/de__unser-ansatz.png,screenshots/diff/tablet/de__unser-ansatz.png,1440,1156,345213,0.207380,0.083164,mittel
+tablet,en,screenshots/original/tablet/en.png,screenshots/clone/tablet/en.png,screenshots/diff/tablet/en.png,1280,720,2320,0.002517,0.000687,identisch/vernachlässigbar
+tablet,en__datenschutz,screenshots/original/tablet/en__datenschutz.png,screenshots/clone/tablet/en__datenschutz.png,screenshots/diff/tablet/en__datenschutz.png,1265,720,1868,0.002051,0.000588,identisch/vernachlässigbar
+tablet,en__faq,screenshots/original/tablet/en__faq.png,screenshots/clone/tablet/en__faq.png,screenshots/diff/tablet/en__faq.png,1265,720,1868,0.002051,0.000588,identisch/vernachlässigbar
+tablet,en__impressum,screenshots/original/tablet/en__impressum.png,screenshots/clone/tablet/en__impressum.png,screenshots/diff/tablet/en__impressum.png,1265,720,1792,0.001968,0.000550,identisch/vernachlässigbar
+tablet,en__ki-executive-coaching-change,screenshots/original/tablet/en__ki-executive-coaching-change.png,screenshots/clone/tablet/en__ki-executive-coaching-change.png,screenshots/diff/tablet/en__ki-executive-coaching-change.png,1280,720,1913,0.002076,0.001856,identisch/vernachlässigbar
+tablet,en__ki-expertinnen,screenshots/original/tablet/en__ki-expertinnen.png,screenshots/clone/tablet/en__ki-expertinnen.png,screenshots/diff/tablet/en__ki-expertinnen.png,1280,720,1767,0.001917,0.000547,identisch/vernachlässigbar
+tablet,en__ki-keynotes,screenshots/original/tablet/en__ki-keynotes.png,screenshots/clone/tablet/en__ki-keynotes.png,screenshots/diff/tablet/en__ki-keynotes.png,1280,720,256687,0.278523,0.130194,mittel
+tablet,en__ki-strategieberatung-bedarfsanalyse,screenshots/original/tablet/en__ki-strategieberatung-bedarfsanalyse.png,screenshots/clone/tablet/en__ki-strategieberatung-bedarfsanalyse.png,screenshots/diff/tablet/en__ki-strategieberatung-bedarfsanalyse.png,1280,720,6968,0.007561,0.002624,identisch/vernachlässigbar
+tablet,en__ki-umsetzung-automatisierung,screenshots/original/tablet/en__ki-umsetzung-automatisierung.png,screenshots/clone/tablet/en__ki-umsetzung-automatisierung.png,screenshots/diff/tablet/en__ki-umsetzung-automatisierung.png,1280,720,269335,0.292247,0.184176,mittel
+tablet,en__ki-workshops-kompetenzaufbau,screenshots/original/tablet/en__ki-workshops-kompetenzaufbau.png,screenshots/clone/tablet/en__ki-workshops-kompetenzaufbau.png,screenshots/diff/tablet/en__ki-workshops-kompetenzaufbau.png,1280,720,256768,0.278611,0.139307,mittel
+tablet,en__kontakt,,screenshots/clone/tablet/en__kontakt.png,,,,,,,nicht auswertbar: Screenshot fehlt
+tablet,en__leistungen,,screenshots/clone/tablet/en__leistungen.png,,,,,,,nicht auswertbar: Screenshot fehlt
+tablet,en__team__andreas-rodenbeck,screenshots/original/tablet/en__team__andreas-rodenbeck.png,screenshots/clone/tablet/en__team__andreas-rodenbeck.png,screenshots/diff/tablet/en__team__andreas-rodenbeck.png,1265,720,2381,0.002614,0.001048,identisch/vernachlässigbar
+tablet,en__team__kai-oestreicher,screenshots/original/tablet/en__team__kai-oestreicher.png,screenshots/clone/tablet/en__team__kai-oestreicher.png,screenshots/diff/tablet/en__team__kai-oestreicher.png,1265,720,2411,0.002647,0.001058,identisch/vernachlässigbar
+tablet,en__team__kristin-goas-oses,screenshots/original/tablet/en__team__kristin-goas-oses.png,screenshots/clone/tablet/en__team__kristin-goas-oses.png,screenshots/diff/tablet/en__team__kristin-goas-oses.png,1265,720,1810,0.001987,0.000924,identisch/vernachlässigbar
+tablet,en__team__mario-levenhagen,screenshots/original/tablet/en__team__mario-levenhagen.png,screenshots/clone/tablet/en__team__mario-levenhagen.png,screenshots/diff/tablet/en__team__mario-levenhagen.png,1265,720,365618,0.401425,0.265119,kritisch
+tablet,en__team__meike-quentin,,screenshots/clone/tablet/en__team__meike-quentin.png,,,,,,,nicht auswertbar: Screenshot fehlt
+tablet,en__team__rene-goebels,screenshots/original/tablet/en__team__rene-goebels.png,screenshots/clone/tablet/en__team__rene-goebels.png,screenshots/diff/tablet/en__team__rene-goebels.png,1265,720,357384,0.392385,0.263659,kritisch
+tablet,en__team__stephan-grandy,screenshots/original/tablet/en__team__stephan-grandy.png,screenshots/clone/tablet/en__team__stephan-grandy.png,screenshots/diff/tablet/en__team__stephan-grandy.png,1265,720,1816,0.001994,0.000881,identisch/vernachlässigbar
+tablet,en__team_membber_city__bensheim,screenshots/original/tablet/en__team_membber_city__bensheim.png,screenshots/clone/tablet/en__team_membber_city__bensheim.png,screenshots/diff/tablet/en__team_membber_city__bensheim.png,1265,720,1920,0.002108,0.001420,identisch/vernachlässigbar
+tablet,en__team_membber_city__dortmund,screenshots/original/tablet/en__team_membber_city__dortmund.png,screenshots/clone/tablet/en__team_membber_city__dortmund.png,screenshots/diff/tablet/en__team_membber_city__dortmund.png,1265,720,2433,0.002671,0.001655,identisch/vernachlässigbar
+tablet,en__team_membber_city__frankfurt,screenshots/original/tablet/en__team_membber_city__frankfurt.png,screenshots/clone/tablet/en__team_membber_city__frankfurt.png,screenshots/diff/tablet/en__team_membber_city__frankfurt.png,1265,720,2402,0.002637,0.001986,identisch/vernachlässigbar
+tablet,en__team_membber_city__freigericht,,screenshots/clone/tablet/en__team_membber_city__freigericht.png,,,,,,,nicht auswertbar: Screenshot fehlt
+tablet,en__team_membber_city__hamburg,screenshots/original/tablet/en__team_membber_city__hamburg.png,screenshots/clone/tablet/en__team_membber_city__hamburg.png,screenshots/diff/tablet/en__team_membber_city__hamburg.png,1265,720,1889,0.002074,0.001313,identisch/vernachlässigbar
+tablet,en__team_membber_city__mallorca,screenshots/original/tablet/en__team_membber_city__mallorca.png,screenshots/clone/tablet/en__team_membber_city__mallorca.png,screenshots/diff/tablet/en__team_membber_city__mallorca.png,1265,720,1972,0.002165,0.001838,identisch/vernachlässigbar
+tablet,en__team_membber_city__munchen,screenshots/original/tablet/en__team_membber_city__munchen.png,screenshots/clone/tablet/en__team_membber_city__munchen.png,screenshots/diff/tablet/en__team_membber_city__munchen.png,1265,720,2364,0.002596,0.001819,identisch/vernachlässigbar
+tablet,en__unser-ansatz,,screenshots/clone/tablet/en__unser-ansatz.png,,,,,,,nicht auswertbar: Screenshot fehlt
+tablet,ki-executive-coaching-change,,,,,,,,,nicht auswertbar: Screenshot fehlt
+tablet,ki-expertinnen,screenshots/original/tablet/ki-expertinnen.png,screenshots/clone/tablet/ki-expertinnen.png,screenshots/diff/tablet/ki-expertinnen.png,1280,720,79968,0.086771,0.049134,niedrig
+tablet,ki-keynotes,,,,,,,,,nicht auswertbar: Screenshot fehlt
+tablet,ki-strategieberatung-bedarfsanalyse,,,,,,,,,nicht auswertbar: Screenshot fehlt
+tablet,ki-umsetzung-automatisierung,,,,,,,,,nicht auswertbar: Screenshot fehlt
+tablet,ki-workshops-kompetenzaufbau,screenshots/original/tablet/ki-workshops-kompetenzaufbau.png,screenshots/clone/tablet/ki-workshops-kompetenzaufbau.png,screenshots/diff/tablet/ki-workshops-kompetenzaufbau.png,1280,1156,243962,0.164875,0.084294,mittel
+tablet,kontakt,screenshots/original/tablet/kontakt.png,screenshots/clone/tablet/kontakt.png,screenshots/diff/tablet/kontakt.png,1280,720,2410,0.002615,0.000692,identisch/vernachlässigbar
+tablet,root,screenshots/original/tablet/root.png,screenshots/clone/tablet/root.png,screenshots/diff/tablet/root.png,1280,1156,863473,0.583554,0.229649,kritisch
+tablet,unser-ansatz,screenshots/original/tablet/unser-ansatz.png,screenshots/clone/tablet/unser-ansatz.png,screenshots/diff/tablet/unser-ansatz.png,1280,720,239156,0.259501,0.078791,mittel
+mobile,de,screenshots/original/mobile/de.png,screenshots/clone/mobile/de.png,screenshots/diff/mobile/de.png,1265,720,2387,0.002621,0.000712,identisch/vernachlässigbar
+mobile,de__datenschutz,,,,,,,,,nicht auswertbar: Screenshot fehlt
+mobile,de__faq,screenshots/original/mobile/de__faq.png,screenshots/clone/mobile/de__faq.png,screenshots/diff/mobile/de__faq.png,1265,720,2386,0.002620,0.000703,identisch/vernachlässigbar
+mobile,de__impressum,,,,,,,,,nicht auswertbar: Screenshot fehlt
+mobile,de__ki-executive-coaching-change,screenshots/original/mobile/de__ki-executive-coaching-change.png,screenshots/clone/mobile/de__ki-executive-coaching-change.png,screenshots/diff/mobile/de__ki-executive-coaching-change.png,1265,720,2424,0.002661,0.001982,identisch/vernachlässigbar
+mobile,de__ki-expertinnen,screenshots/original/mobile/de__ki-expertinnen.png,screenshots/clone/mobile/de__ki-expertinnen.png,screenshots/diff/mobile/de__ki-expertinnen.png,1265,1200,125047,0.082376,0.044344,niedrig
+mobile,de__ki-keynotes,screenshots/original/mobile/de__ki-keynotes.png,screenshots/clone/mobile/de__ki-keynotes.png,screenshots/diff/mobile/de__ki-keynotes.png,1265,720,251774,0.276432,0.130092,mittel
+mobile,de__ki-strategieberatung-bedarfsanalyse,screenshots/original/mobile/de__ki-strategieberatung-bedarfsanalyse.png,screenshots/clone/mobile/de__ki-strategieberatung-bedarfsanalyse.png,screenshots/diff/mobile/de__ki-strategieberatung-bedarfsanalyse.png,1265,1200,354542,0.233559,0.097197,mittel
+mobile,de__ki-umsetzung-automatisierung,,screenshots/clone/mobile/de__ki-umsetzung-automatisierung.png,,,,,,,nicht auswertbar: Screenshot fehlt
+mobile,de__ki-workshops-kompetenzaufbau,,screenshots/clone/mobile/de__ki-workshops-kompetenzaufbau.png,,,,,,,nicht auswertbar: Screenshot fehlt
+mobile,de__kontakt,screenshots/original/mobile/de__kontakt.png,screenshots/clone/mobile/de__kontakt.png,screenshots/diff/mobile/de__kontakt.png,1265,720,2386,0.002620,0.000703,identisch/vernachlässigbar
+mobile,de__leistungen,screenshots/original/mobile/de__leistungen.png,screenshots/clone/mobile/de__leistungen.png,screenshots/diff/mobile/de__leistungen.png,1265,720,2386,0.002620,0.000703,identisch/vernachlässigbar
+mobile,de__team__andreas-rodenbeck,,,,,,,,,nicht auswertbar: Screenshot fehlt
+mobile,de__team__kai-oestreicher,,,,,,,,,nicht auswertbar: Screenshot fehlt
+mobile,de__team__kristin-goas-oses,,,,,,,,,nicht auswertbar: Screenshot fehlt
+mobile,de__team__mario-levenhagen,,,,,,,,,nicht auswertbar: Screenshot fehlt
+mobile,de__team__meike-quentin,,,,,,,,,nicht auswertbar: Screenshot fehlt
+mobile,de__team__rene-goebels,,,,,,,,,nicht auswertbar: Screenshot fehlt
+mobile,de__team__stephan-grandy,screenshots/original/mobile/de__team__stephan-grandy.png,screenshots/clone/mobile/de__team__stephan-grandy.png,screenshots/diff/mobile/de__team__stephan-grandy.png,1265,720,358250,0.393336,0.287962,kritisch
+mobile,de__team_membber_city__bensheim,screenshots/original/mobile/de__team_membber_city__bensheim.png,,,,,,,,nicht auswertbar: Screenshot fehlt
+mobile,de__team_membber_city__dortmund,,,,,,,,,nicht auswertbar: Screenshot fehlt
+mobile,de__team_membber_city__frankfurt,,,,,,,,,nicht auswertbar: Screenshot fehlt
+mobile,de__team_membber_city__freigericht,,,,,,,,,nicht auswertbar: Screenshot fehlt
+mobile,de__team_membber_city__hamburg,screenshots/original/mobile/de__team_membber_city__hamburg.png,,,,,,,,nicht auswertbar: Screenshot fehlt
+mobile,de__team_membber_city__mallorca,,,,,,,,,nicht auswertbar: Screenshot fehlt
+mobile,de__team_membber_city__munchen,screenshots/original/mobile/de__team_membber_city__munchen.png,screenshots/clone/mobile/de__team_membber_city__munchen.png,screenshots/diff/mobile/de__team_membber_city__munchen.png,1265,1200,894830,0.589480,0.447228,kritisch
+mobile,de__unser-ansatz,screenshots/original/mobile/de__unser-ansatz.png,screenshots/clone/mobile/de__unser-ansatz.png,screenshots/diff/mobile/de__unser-ansatz.png,1265,720,2916,0.003202,0.001396,identisch/vernachlässigbar
+mobile,en,,screenshots/clone/mobile/en.png,,,,,,,nicht auswertbar: Screenshot fehlt
+mobile,en__datenschutz,,,,,,,,,nicht auswertbar: Screenshot fehlt
+mobile,en__faq,,,,,,,,,nicht auswertbar: Screenshot fehlt
+mobile,en__impressum,,,,,,,,,nicht auswertbar: Screenshot fehlt
+mobile,en__ki-executive-coaching-change,,,,,,,,,nicht auswertbar: Screenshot fehlt
+mobile,en__ki-expertinnen,,,,,,,,,nicht auswertbar: Screenshot fehlt
+mobile,en__ki-keynotes,,,,,,,,,nicht auswertbar: Screenshot fehlt
+mobile,en__ki-strategieberatung-bedarfsanalyse,,,,,,,,,nicht auswertbar: Screenshot fehlt
+mobile,en__ki-umsetzung-automatisierung,,,,,,,,,nicht auswertbar: Screenshot fehlt
+mobile,en__ki-workshops-kompetenzaufbau,,,,,,,,,nicht auswertbar: Screenshot fehlt
+mobile,en__kontakt,,,,,,,,,nicht auswertbar: Screenshot fehlt
+mobile,en__leistungen,,,,,,,,,nicht auswertbar: Screenshot fehlt
+mobile,en__team__andreas-rodenbeck,,,,,,,,,nicht auswertbar: Screenshot fehlt
+mobile,en__team__kai-oestreicher,,,,,,,,,nicht auswertbar: Screenshot fehlt
+mobile,en__team__kristin-goas-oses,,,,,,,,,nicht auswertbar: Screenshot fehlt
+mobile,en__team__mario-levenhagen,,,,,,,,,nicht auswertbar: Screenshot fehlt
+mobile,en__team__meike-quentin,,,,,,,,,nicht auswertbar: Screenshot fehlt
+mobile,en__team__rene-goebels,,,,,,,,,nicht auswertbar: Screenshot fehlt
+mobile,en__team__stephan-grandy,,,,,,,,,nicht auswertbar: Screenshot fehlt
+mobile,en__team_membber_city__bensheim,,,,,,,,,nicht auswertbar: Screenshot fehlt
+mobile,en__team_membber_city__dortmund,,,,,,,,,nicht auswertbar: Screenshot fehlt
+mobile,en__team_membber_city__frankfurt,,,,,,,,,nicht auswertbar: Screenshot fehlt
+mobile,en__team_membber_city__freigericht,,,,,,,,,nicht auswertbar: Screenshot fehlt
+mobile,en__team_membber_city__hamburg,,,,,,,,,nicht auswertbar: Screenshot fehlt
+mobile,en__team_membber_city__mallorca,,,,,,,,,nicht auswertbar: Screenshot fehlt
+mobile,en__team_membber_city__munchen,,,,,,,,,nicht auswertbar: Screenshot fehlt
+mobile,en__unser-ansatz,,,,,,,,,nicht auswertbar: Screenshot fehlt
+mobile,ki-executive-coaching-change,screenshots/original/mobile/ki-executive-coaching-change.png,screenshots/clone/mobile/ki-executive-coaching-change.png,screenshots/diff/mobile/ki-executive-coaching-change.png,1280,720,26265,0.028499,0.012324,niedrig
+mobile,ki-expertinnen,screenshots/original/mobile/ki-expertinnen.png,screenshots/clone/mobile/ki-expertinnen.png,screenshots/diff/mobile/ki-expertinnen.png,1280,720,75345,0.081755,0.046042,niedrig
+mobile,ki-keynotes,screenshots/original/mobile/ki-keynotes.png,screenshots/clone/mobile/ki-keynotes.png,screenshots/diff/mobile/ki-keynotes.png,1265,1200,23557,0.015518,0.006629,niedrig
+mobile,ki-strategieberatung-bedarfsanalyse,screenshots/original/mobile/ki-strategieberatung-bedarfsanalyse.png,screenshots/clone/mobile/ki-strategieberatung-bedarfsanalyse.png,screenshots/diff/mobile/ki-strategieberatung-bedarfsanalyse.png,1280,720,254376,0.276016,0.114411,mittel
+mobile,ki-umsetzung-automatisierung,screenshots/original/mobile/ki-umsetzung-automatisierung.png,screenshots/clone/mobile/ki-umsetzung-automatisierung.png,screenshots/diff/mobile/ki-umsetzung-automatisierung.png,1280,720,30396,0.032982,0.012893,niedrig
+mobile,ki-workshops-kompetenzaufbau,,screenshots/clone/mobile/ki-workshops-kompetenzaufbau.png,,,,,,,nicht auswertbar: Screenshot fehlt
+mobile,kontakt,,screenshots/clone/mobile/kontakt.png,,,,,,,nicht auswertbar: Screenshot fehlt
+mobile,root,screenshots/original/mobile/root.png,screenshots/clone/mobile/root.png,screenshots/diff/mobile/root.png,1265,1200,748136,0.492843,0.225337,kritisch
+mobile,unser-ansatz,screenshots/original/mobile/unser-ansatz.png,screenshots/clone/mobile/unser-ansatz.png,screenshots/diff/mobile/unser-ansatz.png,1280,720,21184,0.022986,0.010504,niedrig

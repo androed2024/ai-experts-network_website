@@ -1,0 +1,133 @@
+{
+  "mode": "apply",
+  "updated_pages": 14,
+  "issues": [],
+  "pages": [
+    {
+      "path": "/de/faq/",
+      "source": "reports/original-archive/html/de/faq/index.html",
+      "target": "ai-experts-clone/de/faq/index.html",
+      "before_sha256": "a8af8692e56b536c656eef54a0aad48f5b2a93b8f5d6ba3b1b2639e0bc9c6ee2",
+      "after_sha256": "2e2602b08c9d905b0e5cf5e2aa609b253964070a3a6c02a0ce25c5a6244a0bcf",
+      "changed": true,
+      "issues": []
+    },
+    {
+      "path": "/de/team/andreas-rodenbeck/",
+      "source": "reports/original-archive/html/de/team/andreas-rodenbeck/index.html",
+      "target": "ai-experts-clone/de/team/andreas-rodenbeck/index.html",
+      "before_sha256": "0e3c16dc2d39f0a3549d1f5775873ee80a14a0484cde9e3b3c4e7f26c5deac07",
+      "after_sha256": "6dcea83b9c2c799296c44fa4e9a8bb7400d00a9dfbd04f76a3c2ecb95ab09819",
+      "changed": true,
+      "issues": []
+    },
+    {
+      "path": "/de/team/kristin-goas-oses/",
+      "source": "reports/original-archive/html/de/team/kristin-goas-oses/index.html",
+      "target": "ai-experts-clone/de/team/kristin-goas-oses/index.html",
+      "before_sha256": "9c188e5198222708469a683c7766e4cf228ac0b0b04698eb6468e4ec24bc35cb",
+      "after_sha256": "ea2a7ccdabf5c48d5247cd7525c126028efcd420706bb13d310204221ea921b5",
+      "changed": true,
+      "issues": []
+    },
+    {
+      "path": "/de/team/mario-levenhagen/",
+      "source": "reports/original-archive/html/de/team/mario-levenhagen/index.html",
+      "target": "ai-experts-clone/de/team/mario-levenhagen/index.html",
+      "before_sha256": "2dfd0ec8bae98e1608dd226c59761a5d70daac425dfb8d510500fe2bd9623660",
+      "after_sha256": "25fa50c3a817ec9872f794d19d2ab2690ebff403747a3d21cda4ea78a6cbdd3f",
+      "changed": true,
+      "issues": []
+    },
+    {
+      "path": "/de/team/meike-quentin/",
+      "source": "reports/original-archive/html/de/team/meike-quentin/index.html",
+      "target": "ai-experts-clone/de/team/meike-quentin/index.html",
+      "before_sha256": "d033cedfd64dc9e773b39eb26c9bdc7c1bc0c3027b8e6d53d222242b01cc081a",
+      "after_sha256": "0621f7c5dbf4de3f28ab5121622cfb12bb6f57ec5e4d68b5105d49f99a1a8e12",
+      "changed": true,
+      "issues": []
+    },
+    {
+      "path": "/de/team/rene-goebels/",
+      "source": "reports/original-archive/html/de/team/rene-goebels/index.html",
+      "target": "ai-experts-clone/de/team/rene-goebels/index.html",
+      "before_sha256": "7ec028db98dbcab0c7f2140804ff152adaf9760a306689ceca13243c3046ab4e",
+      "after_sha256": "68d16b383fddacfb250da06c1c52d8b9c6ee40a8704987dac1cce0519a16ce8e",
+      "changed": true,
+      "issues": []
+    },
+    {
+      "path": "/de/team/stephan-grandy/",
+      "source": "reports/original-archive/html/de/team/stephan-grandy/index.html",
+      "target": "ai-experts-clone/de/team/stephan-grandy/index.html",
+      "before_sha256": "158d7df5abf0d9c1c230cee2e19f318008a58bf7444fa36ecb2d5d882e2d5856",
+      "after_sha256": "3e827a26c54cd151a3f4f0746cc280b1cef95390e952077108e9b05ae2de560f",
+      "changed": true,
+      "issues": []
+    },
+    {
+      "path": "/en/faq/",
+      "source": "reports/original-archive/html/en/faq/index.html",
+      "target": "ai-experts-clone/en/faq/index.html",
+      "before_sha256": "0aee3fd80aa248202a5febd0a6efae5fa7d65cc3a991a9b52b65a9fadcdae79c",
+      "after_sha256": "e15f58b32fea90e2ca0a338965f5cf359b54102cfab9f90bb4be86c766cc2e84",
+      "changed": true,
+      "issues": []
+    },
+    {
+      "path": "/en/leistungen/",
+      "source": "reports/original-archive/html/en/leistungen/index.html",
+      "target": "ai-experts-clone/en/leistungen/index.html",
+      "before_sha256": "1d79c0723cf6abadc837793db64dc4573bb4e6a29cedf05b361ce83cc1433970",
+      "after_sha256": "92a97e960471de153b96a1f9ea3aebb977ebba531bf43e10477219f2177bc9b4",
+      "changed": true,
+      "issues": []
+    },
+    {
+      "path": "/en/team/kristin-goas-oses/",
+      "source": "reports/original-archive/html/en/team/kristin-goas-oses/index.html",
+      "target": "ai-experts-clone/en/team/kristin-goas-oses/index.html",
+      "before_sha256": "76db7ebb20312cabf2e827b05f60275d869b0b27dc5df15593b0c2ecd0053966",
+      "after_sha256": "a6c873e9f72de291d5432ced1834f3ce863d5e96a17df9b2d19156193252a8fd",
+      "changed": true,
+      "issues": []
+    },
+    {
+      "path": "/en/team/mario-levenhagen/",
+      "source": "reports/original-archive/html/en/team/mario-levenhagen/index.html",
+      "target": "ai-experts-clone/en/team/mario-levenhagen/index.html",
+      "before_sha256": "1591e73fe66fc0e463b24c60e2add112ec76bfed7d646b4387282b59a0ceeaf8",
+      "after_sha256": "12006384a5173dbd479a777d8aff29e93ab00228439812ce65a309cca1e54556",
+      "changed": true,
+      "issues": []
+    },
+    {
+      "path": "/en/team/meike-quentin/",
+      "source": "reports/original-archive/html/en/team/meike-quentin/index.html",
+      "target": "ai-experts-clone/en/team/meike-quentin/index.html",
+      "before_sha256": "aba7e341ecc0598b3c6e48009fbf7fcef777b9e05c591c327faf31bf83be7af6",
+      "after_sha256": "397c8349dcbb821694e184348dac675d6ed5383bee686e3ea1d05c4d6d01ad77",
+      "changed": true,
+      "issues": []
+    },
+    {
+      "path": "/en/team/rene-goebels/",
+      "source": "reports/original-archive/html/en/team/rene-goebels/index.html",
+      "target": "ai-experts-clone/en/team/rene-goebels/index.html",
+      "before_sha256": "9629711484e52b2f1fa91546b78b0538a13067a4feaed952c0d2e3ed931f91c7",
+      "after_sha256": "373fce76e0d9f512127d72b323302e19efe4c13ab11fe0ef20ffcfd681c60dd2",
+      "changed": true,
+      "issues": []
+    },
+    {
+      "path": "/en/team/stephan-grandy/",
+      "source": "reports/original-archive/html/en/team/stephan-grandy/index.html",
+      "target": "ai-experts-clone/en/team/stephan-grandy/index.html",
+      "before_sha256": "d48dd4d3516c15d687273319eeeb350d4ac60c1137be180342af0798d1702f7e",
+      "after_sha256": "5adbc34bc69e41ce6f938b0c4b1003609cc7a5114c6653566d1e7732c47468fd",
+      "changed": true,
+      "issues": []
+    }
+  ]
+}
