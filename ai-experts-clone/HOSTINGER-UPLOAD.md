@@ -14,6 +14,12 @@ Hostinger empfiehlt, Website-Dateien im `public_html`-Ordner der jeweiligen
 Domain abzulegen. Am einfachsten kann der Inhalt als ZIP-Datei hochgeladen und
 direkt in `public_html` entpackt werden.
 
+Wichtig beim Entpacken im Hostinger-Dateimanager: Wenn der Dateimanager bereits
+den Pfad `.../ai-experts.network/public_html/` anzeigt, muss als Ziel der
+**aktuelle Ordner** (`.`) gewählt werden. Nicht erneut `public_html` als
+Unterordner anlegen oder auswählen. Andernfalls landen die Dateien fälschlich
+unter `public_html/public_html/` und werden von der Domain nicht ausgeliefert.
+
 ## Nach dem Upload prüfen
 
 1. `https://ai-experts.network/de/`
@@ -24,19 +30,17 @@ direkt in `public_html` entpackt werden.
 6. Bilder, Fonts und Navigation auf Desktop und Mobilgeräten
 7. Canonical- und Hreflang-Tags
 
-## Noch offen: Kontaktformular
+## Kontaktformular
 
-Die sichtbaren Contact-Form-7-Formulare stammen aus WordPress. Ihre
-JavaScript-Konfiguration verwendet weiterhin die WordPress-REST-API des
-Originalsystems. Wenn dieses WordPress abgeschaltet wird, können die statischen
-Formulare keine Nachrichten mehr übermitteln.
+Das deutsche und englische Kontaktformular verwenden den lokalen PHP-Endpunkt
+`/contact-submit.php`. Dieser muss direkt im produktiven `public_html` liegen.
+Das zugehörige Browserskript befindet sich unter
+`/assets/js/contact-form-mail.js`. Nachrichten werden an
+`info@ai-experts.network` gesendet.
 
-Vor der endgültigen Umschaltung muss deshalb entweder:
+Nach jedem Deployment sind mindestens folgende Prüfungen erforderlich:
 
-- ein neuer Formular-Endpunkt eingerichtet werden,
-- ein externer Formulardienst eingebunden werden oder
-- ein `mailto:`-Fallback mit der gewünschten Empfängeradresse eingesetzt werden.
-
-Die Empfängeradresse beziehungsweise der gewünschte Formulardienst ist im
-Projekt noch nicht festgelegt.
-
+1. `https://ai-experts.network/contact-submit.php` liefert bei einem normalen
+   Browseraufruf JSON mit HTTP-Status 405 statt einer 404-Seite.
+2. Der Quelltext der Kontaktseite lädt `/assets/js/contact-form-mail.js`.
+3. Eine echte Testnachricht wird über DE und EN versendet.
